@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "STM32F103C8T6_FOC.kicad_pro",
+    "filename": "STM32F103CBT6_FOC.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -548,7 +548,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Manufacturing/",
+      "plot": "../Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
